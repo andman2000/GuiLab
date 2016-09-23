@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GuiLab</string>
+    <string name="tv1tect">0</string>
+    <string name="tv1text">0</string>
+    <string name="tv2text">0</string>
+    <string name="tv3text">0</string>
+    <string name="tv4text">0</string>
 </resources>
